@@ -1,0 +1,6 @@
+{
+  "name": "Notice Subject & Bank Name Generator",
+  "description": "Upload police notice PDF/Image to get Acknowledgement Number, Bank Name, and the exact copyable email subject line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
